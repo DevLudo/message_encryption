@@ -90,7 +90,7 @@ A cause de quelques incompréhensions, quelques erreurs de buffer concernant le 
 
 ## Auteurs
 
-* ROUX Ludovic
-* PROSDOCIMI Yoan
+> [ROUX Ludovic](https://github.com/DevLudo)  
+> [PROSDOCIMI Yoan](https://github.com/YoanPr)
 
 https://framagit.org/LudOo/message_encryption
